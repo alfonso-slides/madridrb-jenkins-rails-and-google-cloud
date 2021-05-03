@@ -1,3 +1,2 @@
 screenshots/*.png filter=lfs diff=lfs merge=lfs -text
 slides/*.png filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
